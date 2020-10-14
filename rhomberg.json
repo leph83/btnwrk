@@ -3,5 +3,16 @@
 	"hero__image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@2e2a960ed5523fefa1aa17141ce00d76d1f4a875/images/_9174_300dpi_rgb.jpg",
 	"hero__title": "Beton ist\nunser Fundament",
 	"hero__link": "#",
-	"hero__subtitle": "Herzlich Willkommen bei Ihrem Partner für Betonrohre und Schachtsysteme in Vorarlberg"
+	"hero__subtitle": "Herzlich Willkommen bei Ihrem Partner für Betonrohre und Schachtsysteme in Vorarlberg",
+	"leistungen_title": "Unsere Leistungen",
+	"block": [
+		{
+			"product_title": "Produkte"
+		},
+		{
+			"product_title": "Produkte"
+		}
+	],
+	"product_quote": "Wir produzieren qualitativ hochwertige Tiefbauprodukte für die Region.",
+	"product_cite": "Viktoria Rhomberg, Geschäftsführung"
 }
