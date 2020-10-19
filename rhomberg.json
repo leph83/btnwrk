@@ -18,7 +18,10 @@
 	"pullquote": "Kompetent. Zuverlässig. Lösungsorientiert",
 	"nav__item": [
 		{
-			"navlink": "index.html"
+			"navlink": "Unternehmen"
+		},
+		{
+			"navlink": "Produkte"
 		}
 	]
 }
