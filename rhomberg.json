@@ -22,6 +22,9 @@
 		},
 		{
 			"navlink": "Produkte"
+		},
+		{
+			"navlink": "index.html"
 		}
 	],
 	"test": "index.html"
