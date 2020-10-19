@@ -23,5 +23,6 @@
 		{
 			"navlink": "Produkte"
 		}
-	]
+	],
+	"test": "index.thml"
 }
