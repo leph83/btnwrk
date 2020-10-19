@@ -15,5 +15,10 @@
 	],
 	"product_quote": "Wir produzieren qualitativ hochwertige Tiefbauprodukte für die Region.",
 	"product_cite": "Viktoria Rhomberg, Geschäftsführung",
-	"pullquote": "Kompetent. Zuverlässig. Lösungsorientiert"
+	"pullquote": "Kompetent. Zuverlässig. Lösungsorientiert",
+	"nav__item": [
+		{
+			"navlink": "index.html"
+		}
+	]
 }
