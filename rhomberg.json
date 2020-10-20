@@ -102,5 +102,44 @@
 			"history-content": "<p>&Uuml;bernahme der&nbsp;Gesch&auml;ftsf&uuml;hrung durch&nbsp;Viktoria Rhomberg</p>"
 		}
 	],
-	"products-intro-title": "Unsere Produkte"
+	"products-intro-title": "Unsere Produkte",
+	"product": [
+		{
+			"product-title": "Schachtsysteme"
+		},
+		{
+			"product-image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@06b63c645b9188a7dd4f73102c2409812f73b31c/images/_7010.jpg",
+			"product-title": "Stahlbetonrohre"
+		},
+		{
+			"product-image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@4250692484761b8ac4b9f6256d22e94956298474/images/_9296_300dpi_rgb.jpg",
+			"product-title": "Betonrohre und Schachtringe mit Falz"
+		},
+		{
+			"product-image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@453ecc6b8e33c1f3c83c8fb090f6620485942cc8/images/_6992.jpg",
+			"product-title": "Ausgleichringe"
+		},
+		{
+			"product-title": "Strassenbau"
+		},
+		{
+			"product-title": "Kanalguss"
+		},
+		{
+			"product-title": "Regenwasser-nutzung"
+		},
+		{
+			"product-title": "Regenwasser / Entwässerung"
+		},
+		{
+			"product-image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@a0f9293854655303db6148a56e448eb2df723d58/images/_9213.jpg",
+			"product-title": "Pumpemsümpfe"
+		},
+		{
+			"product-title": "Garten- und Landschaftsbau"
+		},
+		{
+			"product-title": "Zubehör"
+		}
+	]
 }
