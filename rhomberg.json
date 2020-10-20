@@ -105,6 +105,7 @@
 	"products-intro-title": "Unsere Produkte",
 	"product": [
 		{
+			"product-image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@d1b357bf581d15ea3654cbca2f2436d2b32b4429/images/_9174_96dpi_rgb%20-%20Kopie.jpg",
 			"product-title": "Schachtsysteme"
 		},
 		{
@@ -139,6 +140,7 @@
 			"product-title": "Garten- und Landschaftsbau"
 		},
 		{
+			"product-image": "https://cdn.jsdelivr.net/gh/leph83/btnwrk@6e1dea4a5b1fdebd696b31832d0e557442661e57/images/Bild_Perfect_Halle_retuschiert_404576.jpg",
 			"product-title": "Zubehör"
 		}
 	]
