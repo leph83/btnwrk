@@ -83,5 +83,23 @@
 	],
 	"companydescription-content": "<p>Seit &uuml;ber 55 Jahren ist die Firma Rhomberg Betonwerk ein Familienunternehmen mit Sitz in Dornbirn, Vorarlberg. Wir produzieren qualitativ hochwertige Tiefbauprodukte f&uuml;r&nbsp;die Region und .....&nbsp;</p>",
 	"companydescription-link": "referenzen.html",
-	"companydescription-link-text": "zu den Referenzen"
+	"companydescription-link-text": "zu den Referenzen",
+	"history": [
+		{
+			"history-year": "1965",
+			"history-content": "<p>Abschluss der Ausbildung und Gr&uuml;ndung des Unternehmens durch Ing. Bernhard Rhomberg</p>"
+		},
+		{
+			"history-year": "1989",
+			"history-content": "<p>Aufbau und Erweiterungen mit Mitarbeitern</p>"
+		},
+		{
+			"history-year": "2010",
+			"history-content": "<p>Umstrukturierung, Neubau&nbsp;und Firmierung als GmbH</p>"
+		},
+		{
+			"history-year": "2018",
+			"history-content": "<p>&Uuml;bernahme der&nbsp;Gesch&auml;ftsf&uuml;hrung durch&nbsp;Viktoria Rhomberg</p>"
+		}
+	]
 }
