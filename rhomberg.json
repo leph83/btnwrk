@@ -169,6 +169,14 @@
 		{
 			"footer-link": "tel:+43557226962",
 			"footer-link-text": "T +43(0)5572/26962"
+		},
+		{
+			"footer-link": "mailto:office@betonwerk-rhomberg.at",
+			"footer-link-text": "E office@betonwerk-rhomberg.at"
+		},
+		{
+			"footer-link": "https://www.betonwerk-rhomberg.at",
+			"footer-link-text": "www.betonwerk-rhomberg.at"
 		}
 	]
 }
