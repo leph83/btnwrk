@@ -185,7 +185,8 @@
 			"bluecard-link": "produkte.html"
 		},
 		{
-			"product_title": "projekte"
+			"product_title": "projekte",
+			"bluecard-link": "projekte.html"
 		}
 	]
 }
