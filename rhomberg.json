@@ -7,10 +7,12 @@
 	"leistungen_title": "Unsere Leistungen",
 	"block": [
 		{
-			"product_title": "Produkte"
+			"product_title": "Produkte",
+			"bluecard-link": "produkte.html"
 		},
 		{
-			"product_title": "Produkte"
+			"product_title": "Projekte",
+			"bluecard-link": "projekte.html"
 		}
 	],
 	"product_quote": "Wir produzieren qualitativ hochwertige Tiefbauprodukte für die Region.",
