@@ -180,5 +180,11 @@
 			"footer-link": "https://www.betonwerk-rhomberg.at",
 			"footer-link-text": "www.betonwerk-rhomberg.at"
 		}
+	],
+	"bluecard": [
+		{
+			"product_title": "Produkte",
+			"bluecard-link": "produkte.html"
+		}
 	]
 }
