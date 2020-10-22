@@ -167,7 +167,8 @@
 	],
 	"footer-right": [
 		{
-			"footer-link": "#"
+			"footer-link": "tel:+43557226962",
+			"footer-link-text": "T +43(0)5572/26962"
 		}
 	]
 }
