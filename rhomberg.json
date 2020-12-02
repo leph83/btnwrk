@@ -196,7 +196,7 @@
 	"products-link": "",
 	"products-link-text": "zu unserer Preisliste",
 	"products-pullquote": "Beton ist unser Fundament.",
-	"product-intro-description": "Stets am Puls der Zeit – innovativ und mit modernster Technik. \nMit Fachkompetenz und Erfahrung ........... Ihr Partner für Betonrohre \nund Schachtsysteme in Vorarlberg.",
+	"product-intro-description": "Stets am Puls der Zeit – innovativ und mit modernster Technik. Mit Fachkompetenz und Erfahrung ........... Ihr Partner für Betonrohre und Schachtsysteme in Vorarlberg.",
 	"service-intro-title": "Service",
 	"service-intro-description": "Für einen Einblick in unsere Leistungen finden Sie hier Downloads von Informations- und Werbematerialien. Für eine gezielte Produkt- und Preisabfrage steht unseren Kunden der Login-Bereich zur Verfügung.",
 	"contact-details": "Bei Fragen stehen wir Ihnen gerne telefonisch zur Verf&uuml;gung: <br /><a href=\"tel:+43557226962\">T +43 (0) 5572 / 26962</a>",
@@ -233,5 +233,22 @@
 			"bluecard-link": "projekte.html"
 		}
 	],
-	"projects-intro-title": "unsere projekte"
+	"projects-intro-title": "unsere projekte",
+	"project": [
+		{
+			"product-title": "Baustelle Baufirma 2020"
+		},
+		{
+			"product-title": "BAUSTELLE BAUFIRMA 2020"
+		},
+		{
+			"product-title": "BAUSTELLE BAUFIRMA 2020"
+		},
+		{
+			"product-title": "BAUSTELLE BAUFIRMA 2020"
+		},
+		{
+			"product-title": "BAUSTELLE BAUFIRMA 2020"
+		}
+	]
 }
